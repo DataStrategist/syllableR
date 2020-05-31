@@ -10,3 +10,7 @@ Description: It takes syllable composition from svn.code.sf.net for random
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/DataStrategist/syllableR
+BugReports: https://github.com/DataStrategist/syllableR/issues
+Imports: xml2,rvest,stringr,purrr,Rmusic,dplyr
+RoxygenNote: 7.0.2
