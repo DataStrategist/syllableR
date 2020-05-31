@@ -1,0 +1,12 @@
+Package: syllableR
+Type: Package
+Title: Grabs Words And Spits Out The Syllable Composition
+Version: 0.1.0
+Author: person("Amit", "Kohli", email = "mexindian@gmail.com",role = c("aut", "cre")))
+Maintainer: Amit Kohli <mexindindian@gmail.com>
+Description: It takes syllable composition from svn.code.sf.net for random
+    words, converts them into their syllable intonation, and potentially 
+    sing-songs the output to you.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
